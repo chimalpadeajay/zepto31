@@ -1,7 +1,3 @@
-mirza`
-jijiijijjji
-jijij
-jijojoj
-ojok
-kokokok
-
+hi this is git fetch 
+here we are doing work on fetch command 
+after that we will goes on merge
